@@ -1,0 +1,125 @@
+.body1{
+    background-color: rgb(26, 34, 33);
+}
+p{
+    text-align: center;
+}
+h1{
+    font-size: 300%;
+    font-family: Showcard Gothic;  
+    margin-right: 80pc;
+    display: inline-block;
+    color:rgb(127, 255, 242);
+    text-align: left;    
+}
+.logo{
+    margin-top: 9px;
+    width: 6%;
+    height: 5%;
+    display:inline;
+}
+nav{
+    margin: 0;
+    padding:1%;
+    background-color:rgb(159, 247, 238, 0.6);
+    overflow: hidden;
+    height: 5%;
+}
+nav a{
+    display: inline-block;
+    width:205px;
+    color:rgb(166, 255, 246);
+    text-align: center;
+    padding: 8px 8px;
+   margin-bottom: 0;
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 34px;
+    font-weight: 900;
+}
+nav a:hover{
+    color:black;
+    background-color:rgb(132, 246, 235);  
+}
+
+.wel{
+    color:rgb(103, 253, 238);
+    text-align: center;
+    font-size: 75px;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    font-family:Showcard Gothic;
+    margin-bottom: 5%;
+}
+footer{
+    color:turquoise;
+    position:relative;
+    bottom: 0px;
+    width: 100%;
+    font-size: 25px;
+}
+h3{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footerblock{
+    display: flex;
+}
+.footerblock .box{
+    flex-basis:50%;
+    padding:10px 20px;
+}
+.box h2{
+    font-size: 20px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+.box .content{
+    margin: 20px 0 0 0;
+
+}
+.left .content p{
+    text-align: justify;
+}
+.p2{
+    text-align: left;
+    font-size: 30px;
+    color:rgb(5, 168, 152);
+    margin: 20px;
+
+}
+.a1{
+    background-color:rgb(91, 231, 217);
+    font-size: 40px;
+    text-decoration: none;
+    border: 2px;
+    border-radius: 15px;
+    color:rgb(5, 148, 134);
+    margin:30px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px 5px gray;
+    display: inline;
+
+}
+#a2{
+    margin-left: 42%;
+}
+#a3{
+    margin-left: 80%;
+}
+#a4{
+    margin-left:  93%;
+}
+    
+
+.img1{
+    width: 20%;
+    height: 20%;
+    display: block;
+    margin:30px;
+    margin-bottom: 20px;
+    border: 4px solid black;
+}
+
+
